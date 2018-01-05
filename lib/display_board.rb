@@ -7,3 +7,4 @@ puts board_state[0]+" |"+board_state[1]+" |"+ board_state[2]
 puts "-----------"
 
 end
+display_board
