@@ -3,7 +3,7 @@ board_state = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(board_state)
 puts"Welcome to Tic Tac Toe"
-puts board_state[0]+" |"+board_state[1]+" |"+ board_state[2]
+puts board_state[0]+" | "+board_state[1]+" | "+ board_state[2]
 puts "-----------"
 
 end
